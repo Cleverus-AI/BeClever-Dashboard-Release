@@ -1,10 +1,10 @@
 {
   "version": "0.1.1",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2025-06-22T03:24:17.555Z",
+  "pub_date": "2025-06-22T05:07:00.733Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRL3RsMzhLU3RraW9QeVJpQXdHaCtjd1VLbDNieUg2b0pmdWtvcTR3U21lOWozVGk2dVpXa28vQ0t4OVcyKzdRREczZTEyMGRxdUJZa2Z4VU1jK2JwQ0hER0NzdUZPSFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwNTYyNjUyCWZpbGU6QmVDbGV2ZXJfQ0NUVl8wLjEuMV94NjRfZW4tVVMubXNpCksvUDRFZFBZS01QWlYvNnRYVTlINW9RSTdxeHMyakd5Qm1vd1U2eFdLZjhHbVRNU001QndodGFNU0w2QkVCZmQ2YnJ1STc3anlITG9rSHRCV3hrdkRBPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRL3RsMzhLU3RraW9yUTBkZElhUXpueGxEcytnMi9FVHcwbjA3cWR0UEhuS3hpQVN2N0ViWEhnbVFnZTAwRU1HL09aaVJ3RXUvQ05mUkNTWkZQMUNGbVI1cDZDTHFTUmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUwNTY4ODE2CWZpbGU6QmVDbGV2ZXJfQ0NUVl8wLjEuMV94NjRfZW4tVVMubXNpClpqNndJUnlITktBelZrZmFXQkwyMURtNitnejdlNkRuR0FZazl4azJNZEdBREZkcnhieUY2N2dIL0dzbTNhblc0N3JKTmJWWkNWVCtBcVRJMzZPTUJRPT0K",
       "url": "https://github.com/Cleverus-AI/BeClever-Dashboard/releases/download/app-v0.1.1/BeClever_CCTV_0.1.1_x64_en-US.msi"
     }
   }
