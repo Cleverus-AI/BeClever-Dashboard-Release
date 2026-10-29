@@ -1,19 +1,19 @@
 {
-  "version": "1.1.8",
+  "version": "1.1.9",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2026-10-26T05:29:11.948Z",
+  "pub_date": "2026-10-29T06:09:33.525Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRL3RsMzhLU3RraXExRlR2NHc0ekxFWDhPU0JzYmpzczJ2d3d6bzhvZGhVRmlKKzd3UDhFZ0w1dHRvKzJTNXVBa2JTU3ZYT3Z6cE5NTFpxdFFWTDVKQlc1bm5GdTZYTXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTkyNTE3CWZpbGU6QmVDbGV2ZXJfQ0NUVl8xLjEuOF94NjRfZW4tVVMubXNpCnZ1QUc0SWxMaGRDaEdidzNxM2JSUUJTU05oTDdlUFErMDVaWm1RTllTRHNZendFeXZSSklNSmtjRUVkTC9idjZKeVEzYjAvc3hTV2F6OTJnZkRnaUFBPT0K",
-      "url": "https://github.com/Cleverus-AI/BeClever-Dashboard-Release/releases/download/app-v1.1.8/BeClever_CCTV_1.1.8_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRL3RsMzhLU3RraW1LTG1heWVKV3o1Z0JTeHY0NmdzVHdCMnI5MGRIVUI0SFp6SXZFcm5xTTdzS2N3dXF5eDFvbmJFV1JlZEI2ZmlPNG56azVJeUxhZlVTTlYxL2xXVUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjU0MTM5CWZpbGU6QmVDbGV2ZXJfQ0NUVl8xLjEuOV94NjRfZW4tVVMubXNpCm82bVBvTm9YOGZaVHlITC9sbzUzeE9RTFo4MzcvckwwZlJBT1haVnlMdnFRVmZXdE5iN1U4ZGtkVlBIUDZ3Z0pPT2dwSkZxblpscW54YlBtRHIvVUFRPT0K",
+      "url": "https://github.com/Cleverus-AI/BeClever-Dashboard-Release/releases/download/app-v1.1.9/BeClever_CCTV_1.1.9_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRL3RsMzhLU3RraXExRlR2NHc0ekxFWDhPU0JzYmpzczJ2d3d6bzhvZGhVRmlKKzd3UDhFZ0w1dHRvKzJTNXVBa2JTU3ZYT3Z6cE5NTFpxdFFWTDVKQlc1bm5GdTZYTXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTkyNTE3CWZpbGU6QmVDbGV2ZXJfQ0NUVl8xLjEuOF94NjRfZW4tVVMubXNpCnZ1QUc0SWxMaGRDaEdidzNxM2JSUUJTU05oTDdlUFErMDVaWm1RTllTRHNZendFeXZSSklNSmtjRUVkTC9idjZKeVEzYjAvc3hTV2F6OTJnZkRnaUFBPT0K",
-      "url": "https://github.com/Cleverus-AI/BeClever-Dashboard-Release/releases/download/app-v1.1.8/BeClever_CCTV_1.1.8_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRL3RsMzhLU3RraW1LTG1heWVKV3o1Z0JTeHY0NmdzVHdCMnI5MGRIVUI0SFp6SXZFcm5xTTdzS2N3dXF5eDFvbmJFV1JlZEI2ZmlPNG56azVJeUxhZlVTTlYxL2xXVUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjU0MTM5CWZpbGU6QmVDbGV2ZXJfQ0NUVl8xLjEuOV94NjRfZW4tVVMubXNpCm82bVBvTm9YOGZaVHlITC9sbzUzeE9RTFo4MzcvckwwZlJBT1haVnlMdnFRVmZXdE5iN1U4ZGtkVlBIUDZ3Z0pPT2dwSkZxblpscW54YlBtRHIvVUFRPT0K",
+      "url": "https://github.com/Cleverus-AI/BeClever-Dashboard-Release/releases/download/app-v1.1.9/BeClever_CCTV_1.1.9_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRL3RsMzhLU3RraWtvMUdzdDhhSE4yVWlvVlp0Vm5FdVpPNzJPTSt3VjIrYkFPZmN5RmE3UVIvbVBpaVZTOUhOVEtJNXJ6OExjci8yQUY1KzA1OTE1K09WMGVMV0d0cUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTkyNTE3CWZpbGU6QmVDbGV2ZXJfQ0NUVl8xLjEuOF94NjQtc2V0dXAuZXhlCllsVUVJM0Vtc2M1YXhJS2owSS8raWpvRndERVV4K1l0UktrUGozVkIxYVJhOVY1RzFPRW9VSjVZZE9sRnJRSU9xZlRPaTAzQndCV0RLcU45aWlUK0RRPT0K",
-      "url": "https://github.com/Cleverus-AI/BeClever-Dashboard-Release/releases/download/app-v1.1.8/BeClever_CCTV_1.1.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRL3RsMzhLU3RraXJSbExUUy9Tbm1CUHd5VndROWFRRENER2lrV0hJeS96VURrOWhmbGI0OXlzMWkzMWVTVkNhMVJnVytRcUU4VzRhL2xNOE9xUGFmUWZndVpRSjZWWHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjU0MTQwCWZpbGU6QmVDbGV2ZXJfQ0NUVl8xLjEuOV94NjQtc2V0dXAuZXhlCkVaTUpFK3JiT2V3Q01IQmJENk94bm1IY0gybWdycUVheFp6SzdkZUQzMVhLNWFUSGd2V0FFQzJCR29yVzdQUU1BK25YT2JjVTJsQVByY3kwbFQ4b0NRPT0K",
+      "url": "https://github.com/Cleverus-AI/BeClever-Dashboard-Release/releases/download/app-v1.1.9/BeClever_CCTV_1.1.9_x64-setup.exe"
     }
   }
 }
